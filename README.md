@@ -1,9 +1,8 @@
-<h1>Kalvi - Open Source Infrastructure for Online Education</h1>
+<h1>my LMS- Open Source Infrastructure for Online Education</h1>
 
 We are an opensource company building modern technology stack for building your own edtech platform - create eLearning content, manage zoom classes, administer online assessments, foster communities, implement gamification strategies and a lot more - all without building from scratch.
 <br>
 
-🌐 https://www.kalvi.co <br> 📧 hello@kalvi.co
 
 ![image](https://github.com/kalvilabs/.github/assets/9934901/f16d0280-cb8d-4f95-80d4-6f8e973a989d)
 <br>
@@ -85,19 +84,16 @@ We use Github Issues for our issue tracker. You can search
 a new feature before you implement it, please [create new issue](https://github.com/kalvilabs/kalvi/issues/new/choose).
 
 ## Reporting Security Issues
-Please do not report security issues in public. Please email admin@kalvi.co.
+Please do not report security issues in public. Please email asherfelix42@gmail.com.
 
 ## Getting Help
-If you're having trouble, we have discussion forums at
-[Discord](https://discord.gg/R5MUnxrECk) where you can connect with others in the community.
+If you're having trouble, we have discussion forums at my email
+asherfelix42@gmail.com
+
 
 ## ❤️ Contribute
 
-There are many ways to contribute to Kalvi, including:  
+There are many ways to contribute to my LMS, including:  
 -   Submitting  [documentation]([https://github.com/kalvilabs/kalvi/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBUG%5D](https://github.com/kalvilabs/kalvi/issues/new?assignees=&labels=documentation&projects=&template=documentation.yml&title=%5BDOC%5D)), [bugs](https://github.com/kalvilabs/kalvi/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml&title=%5BBUG%5D) and [feature requests](https://github.com/kalvilabs/kalvi/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml&title=%5BFEAT%5D)  for various components.
--   Speaking or writing about Kalvi or any other ecosystem integration and  [letting us know](https://discord.com/invite/R5MUnxrECk)!
--   Upvoting  [popular feature requests](https://github.com/kalvilabs/kalvi/issues)  to show your support.
+-
 
-## We are still in Pre-Alpha
-
-Kalvi is still in early development (alpha) and should not be used (yet) on production, as we reach stability we will release a stable version and add more features.
